@@ -1,0 +1,8 @@
+span {
+  cursor: pointer;
+  padding: 1%;
+}
+
+span:hover {
+  background: #fff;
+}
