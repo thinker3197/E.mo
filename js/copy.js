@@ -1,8 +1,3 @@
-document.getElementById("emo").addEventListener("click", function() {
-    var id = event.target.id;
-    copyToClipboard(document.getElementById(id));
-});
-
 function copyToClipboard(elem) {
 
     var targetId = "_hiddenCopyText_";
