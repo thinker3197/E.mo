@@ -3740,6 +3740,10 @@ var view = {
             this.viewBody.appendChild(node);
         }
 
+        this.emoSearch.addEventListener('keyup',function() {
+            console.log(view.emoSearch.value);
+        });
+
         this.emoType.addEventListener('click', function() {
             control.setCurrEmo(event.target.id);
         });

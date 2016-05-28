@@ -62,6 +62,10 @@ input:focus {
     padding-left: 6px;
 }
 
+#emo-list li:hover {
+	background: #e6e6e6;
+}
+
 #emo-list {
     overflow: auto;
     min-height: 340px;
