@@ -3654,23 +3654,55 @@ var control = {
         return data.currEmo;
     },
     setCurrEmo: function(emoji) {
-        if(emoji=="emo-face")
+        if (emoji == "emo-face")
             data.currEmo = data.emoFace;
-        else if(emoji=="emo-symbol")
+        else if (emoji == "emo-symbol")
             data.currEmo = data.emoSymbol;
-        else if(emoji=="emo-animal")
+        else if (emoji == "emo-animal")
             data.currEmo = data.emoAnimal;
-        else if(emoji=="emo-food")
+        else if (emoji == "emo-food")
             data.currEmo = data.emoFood;
-        else if(emoji=="emo-place")
+        else if (emoji == "emo-place")
             data.currEmo = data.emoPlace;
-        else if(emoji=="emo-item")
+        else if (emoji == "emo-item")
             data.currEmo = data.emoItem;
-        else if(emoji=="emo-activity")
+        else if (emoji == "emo-activity")
             data.currEmo = data.emoActivity;
         else
             data.currEmo = data.emoFlag;
         view.render();
+    },
+    copyEmo: function(emoji) {
+        var textArea = document.createElement("textarea");
+
+        textArea.style.position = 'fixed'; // Place in top-left corner of screen regardless of scroll position.
+        textArea.style.top = 0;
+        textArea.style.left = 0;
+
+        textArea.style.width = '2em';
+        textArea.style.height = '2em';
+        textArea.style.padding = 0;
+
+        textArea.style.border = 'none';
+        textArea.style.outline = 'none';
+        textArea.style.boxShadow = 'none';
+
+        textArea.style.background = 'transparent';
+        textArea.value = emoji;
+
+        document.body.appendChild(textArea);
+
+        textArea.select();
+
+        try {
+            var successful = document.execCommand('copy');
+            var msg = successful ? 'successful' : 'unsuccessful';
+            console.log('Copying text command was ' + msg);
+        } catch (err) {
+            console.log('Oops, unable to copy');
+        }
+
+        document.body.removeChild(textArea);
     }
 };
 
@@ -3701,7 +3733,8 @@ var view = {
 
             node.addEventListener('click', (function(e) {
                 return function() {
-                    control.copyEmo(e);
+                    control.copyEmo(e.emoji);
+                    console.log(e.emoji);
                 };
             })(emo));
 
@@ -3717,4 +3750,4 @@ var view = {
 
 // View ends
 
-control.init();  // Initialize controller
+control.init(); // Initialize controller
