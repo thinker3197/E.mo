@@ -3919,4 +3919,6 @@ var view = {
     }
 };
 
-control.init();
+// View ends
+
+control.init();  // Initialize controller
