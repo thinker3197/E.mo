@@ -3711,6 +3711,7 @@ var view = {
     init: function() {
         this.viewBody = document.getElementById('emo-list');
         this.emoType = document.getElementById('emo-type');
+        this.emoSelected = document.getElementById('emo-selected');
         this.render();
     },
     render: function() {
@@ -3731,7 +3732,13 @@ var view = {
             node.addEventListener('click', (function(e) {
                 return function() {
                     control.copyEmo(e.emoji);
-                    console.log(e.emoji);
+                    // console.log(e.emoji);
+                };
+            })(emo));
+
+            node.addEventListener('mouseover', (function(e) {
+                return function() {
+                    this.emoSelected.innerHTML = e.emoName;
                 };
             })(emo));
 
