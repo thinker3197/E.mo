@@ -51,9 +51,6 @@ var data = {
         emoName: "kissing face with closed eyes",
         emoji: "😚"
     }, {
-        emoName: "white smiling face",
-        emoji: "☺"
-    }, {
         emoName: "slightly smiling face",
         emoji: "🙂"
     }, {
@@ -149,9 +146,6 @@ var data = {
     }, {
         emoName: "face with head-bandage",
         emoji: "🤕"
-    }, {
-        emoName: "white frowning face",
-        emoji: "☹"
     }, {
         emoName: "slightly frowning face",
         emoji: "🙁"
@@ -402,12 +396,6 @@ var data = {
         emoji: "💏",
         emoName: "kiss"
     }, {
-        emoji: "👨❤️‍💋‍👨",
-        emoName: "️‍kiss between man and man"
-    }, {
-        emoji: "👩❤️‍💋‍👩",
-        emoName: "kiss between woman and woman"
-    }, {
         emoji: "💑",
         emoName: "couple with heart"
     }, {
@@ -426,20 +414,11 @@ var data = {
         emoji: "👉",
         emoName: "white right pointing backhand index"
     }, {
-        emoji: "☝️",
-        emoName: "white up pointing index"
-    }, {
         emoji: "👆",
         emoName: "white up pointing backhand index"
     }, {
-        emoji: "🖕",
-        emoName: "reversed hand with middle finger extended"
-    }, {
         emoji: "👇",
         emoName: "white down pointing backhand index"
-    }, {
-        emoji: "✌",
-        emoName: "victory hand"
     }, {
         emoji: "🖖",
         emoName: "raised hand with part between middle and ring fingers"
@@ -477,9 +456,6 @@ var data = {
         emoji: "👐",
         emoName: "open hands sign"
     }, {
-        emoji: "✍",
-        emoName: "writing hand"
-    }, {
         emoji: "💅",
         emoName: "nail polish"
     }, {
@@ -512,9 +488,6 @@ var data = {
     }, {
         emoji: "💘",
         emoName: "heart with arrow"
-    }, {
-        emoji: "❤️",
-        emoName: "heavy black heart"
     }, {
         emoji: "💓",
         emoName: "beating heart"
@@ -551,9 +524,6 @@ var data = {
     }, {
         emoji: "💟",
         emoName: "heart decoration"
-    }, {
-        emoji: "❣️",
-        emoName: "heavy heart exclamation mark ornament"
     }, {
         emoji: "💌",
         emoName: "love letter"
@@ -1047,12 +1017,6 @@ var data = {
     }, {
         emoji: "🌀",
         emoName: "cyclone"
-    }, {
-        emoji: "❄️",
-        emoName: "snowflake"
-    }, {
-        emoji: "☃ ",
-        emoName: "nowman"
     }, {
         emoji: "⛄️",
         emoName: "snowman without snow"
@@ -1614,9 +1578,6 @@ var data = {
         emoji: "🚢",
         emoName: "ship"
     }, {
-        emoji: "✈️",
-        emoName: "airplane"
-    }, {
         emoji: "🛩",
         emoName: "small airplane"
     }, {
@@ -2032,9 +1993,6 @@ var data = {
         emoji: "💲",
         emoName: "heavy dollar sign"
     }, {
-        emoji: "✉️",
-        emoName: "envelope"
-    }, {
         emoji: "📧",
         emoName: "e-mail symbol"
     }, {
@@ -2070,12 +2028,6 @@ var data = {
     }, {
         emoji: "🗳",
         emoName: "ballot box with ballot"
-    }, {
-        emoji: "✏️",
-        emoName: "pencil"
-    }, {
-        emoji: "✒️",
-        emoName: "black nib"
     }, {
         emoji: "🖋",
         emoName: "lower left fountain pen"
@@ -2149,9 +2101,6 @@ var data = {
         emoji: "📐",
         emoName: "triangular ruler"
     }, {
-        emoji: "✂️",
-        emoName: "black scissors"
-    }, {
         emoji: "🗃",
         emoName: "card file box"
     }, {
@@ -2184,9 +2133,6 @@ var data = {
     }, {
         emoji: "⛏",
         emoName: "pick"
-    }, {
-        emoji: "⚒",
-        emoName: "hammer and pick"
     }, {
         emoji: "🛠",
         emoName: "hammer and wrench"
@@ -2544,41 +2490,23 @@ var data = {
         emoji: "↗ ",
         emoName: "north east arrow"
     }, {
-        emoji: "➡️",
-        emoName: " black rightwards arrow"
-    }, {
-        emoji: "↘️",
-        emoName: "south east arrow"
-    }, {
         emoji: "⬇️",
         emoName: "downwards black arrow"
-    }, {
-        emoji: "↙️",
-        emoName: "south west arrow"
     }, {
         emoji: "⬅️",
         emoName: "leftwards black arrow"
     }, {
-        emoji: "↖️",
-        emoName: "north west arrow"
-    }, {
-        emoji: "↕️",
-        emoName: "up down arrow"
-    }, {
         emoji: "↔️",
         emoName: "left right arrow"
-    }, {
-        emoji: "↩️",
-        emoName: "leftwards arrow with hook"
-    }, {
-        emoji: "↪️",
-        emoName: "rightwards arrow with hook"
     }, {
         emoji: "⤴️",
         emoName: "arrow pointing rightwards then curving upwards"
     }, {
         emoji: "⤵️",
         emoName: "arrow pointing rightwards then curving downwards"
+    }, {
+        emoji: "↙️",
+        emoName: "south west arrow"
     }, {
         emoji: "🔃",
         emoName: "clockwise downwards and upwards open circle arrows"
@@ -2610,17 +2538,8 @@ var data = {
         emoji: "🕉",
         emoName: "om symbol"
     }, {
-        emoji: "✡️",
-        emoName: "star of david"
-    }, {
         emoji: "☸",
         emoName: "wheel of dharma"
-    }, {
-        emoji: "☯",
-        emoName: "yin yang"
-    }, {
-        emoji: "✝️",
-        emoName: "latin cross"
     }, {
         emoji: "☦",
         emoName: "orthodox cross"
@@ -2658,15 +2577,6 @@ var data = {
         emoji: "✅",
         emoName: "white heavy check mark"
     }, {
-        emoji: "☑️",
-        emoName: "ballot box with check"
-    }, {
-        emoji: "✔️",
-        emoName: "heavy check mark"
-    }, {
-        emoji: "✖️",
-        emoName: "heavy multiplication x"
-    }, {
         emoji: "❌",
         emoName: "cross mark"
     }, {
@@ -2690,18 +2600,6 @@ var data = {
     }, {
         emoji: "〽️",
         emoName: "part alternation mark"
-    }, {
-        emoji: "✳️",
-        emoName: "eight spoked asterisk"
-    }, {
-        emoji: "✴️",
-        emoName: "eight pointed black star"
-    }, {
-        emoji: "‼️",
-        emoName: "double exclamation mark"
-    }, {
-        emoji: "⁉️",
-        emoName: "exclamation question mark"
     }, {
         emoji: "❓",
         emoName: "black question mark ornament"
@@ -2775,9 +2673,6 @@ var data = {
         emoji: "🔂",
         emoName: "clockwise rightwards and leftwards open circle arrows with circled one overlay"
     }, {
-        emoji: "▶️",
-        emoName: "black right-pointing triangle"
-    }, {
         emoji: "⏩",
         emoName: "black right-pointing double triangle"
     }, {
@@ -2834,42 +2729,6 @@ var data = {
     }, {
         emoji: "📴",
         emoName: "mobile phone off"
-    }, {
-        emoji: "#⃣",
-        emoName: "keycap number sign"
-    }, {
-        emoji: "*⃣",
-        emoName: "keycap asterisk"
-    }, {
-        emoji: "0⃣",
-        emoName: "keycap digit zero"
-    }, {
-        emoji: "1⃣",
-        emoName: "keycap digit one"
-    }, {
-        emoji: "2⃣",
-        emoName: "keycap digit two"
-    }, {
-        emoji: "3⃣",
-        emoName: "keycap digit three"
-    }, {
-        emoji: "4⃣",
-        emoName: "keycap digit four"
-    }, {
-        emoji: "5⃣",
-        emoName: "keycap digit five"
-    }, {
-        emoji: "6⃣",
-        emoName: "keycap digit six"
-    }, {
-        emoji: "7⃣",
-        emoName: "keycap digit seven"
-    }, {
-        emoji: "8⃣",
-        emoName: "keycap digit eight"
-    }, {
-        emoji: "9⃣",
-        emoName: "keycap digit nine"
     }, {
         emoji: "🔟",
         emoName: "keycap ten"
@@ -2945,69 +2804,6 @@ var data = {
     }, {
         emoji: "🈁",
         emoName: "squared katakana koko"
-    }, {
-        emoji: "🈂",
-        emoName: "squared katakana sa"
-    }, {
-        emoji: "🈷",
-        emoName: "squared cjk unified ideograph-6708"
-    }, {
-        emoji: "🈶",
-        emoName: "squared cjk unified ideograph-6709"
-    }, {
-        emoji: "🈯",
-        emoName: "squared cjk unified ideograph-6307"
-    }, {
-        emoji: "🉐",
-        emoName: "circled ideograph advantage"
-    }, {
-        emoji: "🈹",
-        emoName: "squared cjk unified ideograph-5272"
-    }, {
-        emoji: "🈚",
-        emoName: "squared cjk unified ideograph-7121"
-    }, {
-        emoji: "🈲",
-        emoName: "squared cjk unified ideograph-7981"
-    }, {
-        emoji: "🉑",
-        emoName: "circled ideograph accept"
-    }, {
-        emoji: "🈸",
-        emoName: "squared cjk unified ideograph-7533"
-    }, {
-        emoji: "🈴",
-        emoName: "squared cjk unified ideograph-5408"
-    }, {
-        emoji: "🈳",
-        emoName: "squared cjk unified ideograph-7a7a"
-    }, {
-        emoji: "㊗️",
-        emoName: "circled ideograph congratulation"
-    }, {
-        emoji: "㊙️",
-        emoName: "circled ideograph secret"
-    }, {
-        emoji: "🈺",
-        emoName: "squared cjk unified ideograph-55b6"
-    }, {
-        emoji: "🈵",
-        emoName: "squared cjk unified ideograph-6e80"
-    }, {
-        emoji: "▪️",
-        emoName: "black small square"
-    }, {
-        emoji: "▫️",
-        emoName: "white small square"
-    }, {
-        emoji: "◻️",
-        emoName: "white medium square"
-    }, {
-        emoji: "◼️",
-        emoName: "black medium square"
-    }, {
-        emoji: "◽️",
-        emoName: "white medium small square"
     }, {
         emoji: "◾️",
         emoName: "black medium small square"
