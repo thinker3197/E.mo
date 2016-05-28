@@ -166,18 +166,6 @@ var data = {
         emoName: "face with look of triumph",
         emoji: "😤"
     }, {
-        emoji: "😀",
-        emoName: "grinning face"
-    }, {
-        emoji: "😁",
-        emoName: "grinning face with smiling eyes"
-    }, {
-        emoji: "😂",
-        emoName: "face with tears of joy"
-    }, {
-        emoji: "😃",
-        emoName: "smiling face with open mouth"
-    }, {
         emoji: "😢",
         emoName: "crying face"
     }, {
@@ -412,11 +400,11 @@ var data = {
         emoji: "💏",
         emoName: "kiss"
     }, {
-        emoji: "👨",
-        emoName: "️‍💋‍👨 kiss between man and man"
+        emoji: "👨❤️‍💋‍👨",
+        emoName: "️‍kiss between man and man"
     }, {
-        emoji: "👩",
-        emoName: "❤️‍💋‍👩 kiss between woman and woman"
+        emoji: "👩❤️‍💋‍👩",
+        emoName: "kiss between woman and woman"
     }, {
         emoji: "💑",
         emoName: "couple with heart"
@@ -424,8 +412,8 @@ var data = {
         emoji: "👪",
         emoName: "family of a man and woman with boy"
     }, {
-        emoji: "👨",
-        emoName: "👩‍👧 family of a man and woman with girl"
+        emoji: "👨👩‍👧",
+        emoName: "family of a man and woman with girl"
     }, {
         emoji: "💪",
         emoName: "flexed biceps"
@@ -448,8 +436,8 @@ var data = {
         emoji: "👇",
         emoName: "white down pointing backhand index"
     }, {
-        emoji: "✌ ",
-        emoName: "ictory hand"
+        emoji: "✌",
+        emoName: "victory hand"
     }, {
         emoji: "🖖",
         emoName: "raised hand with part between middle and ring fingers"
@@ -460,8 +448,8 @@ var data = {
         emoji: "🖐",
         emoName: "raised hand with fingers splayed"
     }, {
-        emoji: "✋ ",
-        emoName: "aised hand"
+        emoji: "✋",
+        emoName: "raised hand"
     }, {
         emoji: "👌",
         emoName: "ok hand sign"
@@ -472,8 +460,8 @@ var data = {
         emoji: "👎",
         emoName: "thumbs down sign"
     }, {
-        emoji: "✊ ",
-        emoName: "aised fist"
+        emoji: "✊",
+        emoName: "raised fist"
     }, {
         emoji: "👊",
         emoName: "fisted hand sign"
@@ -487,8 +475,8 @@ var data = {
         emoji: "👐",
         emoName: "open hands sign"
     }, {
-        emoji: "✍ ",
-        emoName: "riting hand"
+        emoji: "✍",
+        emoName: "writing hand"
     }, {
         emoji: "💅",
         emoName: "nail polish"
@@ -523,8 +511,8 @@ var data = {
         emoji: "💘",
         emoName: "heart with arrow"
     }, {
-        emoji: " h",
-        emoName: "avy black heart"
+        emoji: "❤️",
+        emoName: "heavy black heart"
     }, {
         emoji: "💓",
         emoName: "beating heart"
@@ -579,12 +567,6 @@ var data = {
     }, {
         emoji: "💥",
         emoName: "collision symbol"
-    }, {
-        emoji: "💦",
-        emoName: "splashing sweat symbol"
-    }, {
-        emoji: "💨",
-        emoName: "dash symbol"
     }, {
         emoji: "💫",
         emoName: "dizzy symbol"
@@ -684,7 +666,8 @@ var data = {
     }, {
         emoji: "💎",
         emoName: "gem stone"
-    }, {
+    }],
+    emoAnimal: [{
         emoji: "🐵",
         emoName: "monkey face"
     }, {
@@ -964,6 +947,133 @@ var data = {
         emoji: "🍃",
         emoName: "leaf fluttering in wind"
     }, {
+        emoji: "🌍",
+        emoName: "earth globe europe-africa"
+    }, {
+        emoji: "🌎",
+        emoName: "earth globe americas"
+    }, {
+        emoji: "🌏",
+        emoName: "earth globe asia-australia"
+    }, {
+        emoji: "🌑",
+        emoName: "new moon symbol"
+    }, {
+        emoji: "🌒",
+        emoName: "waxing crescent moon symbol"
+    }, {
+        emoji: "🌓",
+        emoName: "first quarter moon symbol"
+    }, {
+        emoji: "🌔",
+        emoName: "waxing gibbous moon symbol"
+    }, {
+        emoji: "🌕",
+        emoName: "full moon symbol"
+    }, {
+        emoji: "🌖",
+        emoName: "waning gibbous moon symbol"
+    }, {
+        emoji: "🌗",
+        emoName: "last quarter moon symbol"
+    }, {
+        emoji: "🌘",
+        emoName: "waning crescent moon symbol"
+    }, {
+        emoji: "🌙",
+        emoName: "crescent moon"
+    }, {
+        emoji: "🌚",
+        emoName: "new moon with face"
+    }, {
+        emoji: "🌛",
+        emoName: "first quarter moon with face"
+    }, {
+        emoji: "🌜",
+        emoName: "last quarter moon with face"
+    }, {
+        emoji: "☀️",
+        emoName: "black sun with rays"
+    }, {
+        emoji: "🌝",
+        emoName: "full moon with face"
+    }, {
+        emoji: "🌞",
+        emoName: "sun with face"
+    }, {
+        emoji: "⭐️",
+        emoName: "white medium star"
+    }, {
+        emoji: "🌟",
+        emoName: "glowing star"
+    }, {
+        emoji: "☁️",
+        emoName: "cloud"
+    }, {
+        emoji: "⛅️",
+        emoName: "sun behind cloud"
+    }, {
+        emoji: "⛈ ",
+        emoName: "hunder cloud and rain"
+    }, {
+        emoji: "🌤",
+        emoName: "white sun with small cloud"
+    }, {
+        emoji: "🌥",
+        emoName: "white sun behind cloud"
+    }, {
+        emoji: "🌦",
+        emoName: "white sun behind cloud with rain"
+    }, {
+        emoji: "🌧",
+        emoName: "cloud with rain"
+    }, {
+        emoji: "🌨",
+        emoName: "cloud with snow"
+    }, {
+        emoji: "🌩",
+        emoName: "cloud with lightning"
+    }, {
+        emoji: "🌪",
+        emoName: "cloud with tornado"
+    }, {
+        emoji: "🌫",
+        emoName: "fog"
+    }, {
+        emoji: "🌬",
+        emoName: "wind blowing face"
+    }, {
+        emoji: "🌀",
+        emoName: "cyclone"
+    }, {
+        emoji: "❄️",
+        emoName: "snowflake"
+    }, {
+        emoji: "☃ ",
+        emoName: "nowman"
+    }, {
+        emoji: "⛄️",
+        emoName: "snowman without snow"
+    }, {
+        emoji: "☄ ",
+        emoName: "omet"
+    }, {
+        emoji: "🔥",
+        emoName: "fire"
+    }, {
+        emoji: "💧",
+        emoName: "droplet"
+    }, {
+        emoji: "🌊",
+        emoName: "water wave"
+    }, {
+        emoji: "💦",
+        emoName: "splashing sweat symbol"
+    }, {
+        emoji: "💨",
+        emoName: "dash symbol"
+    }],
+    emoFood: [{
         emoji: "🍇",
         emoName: "grapes"
     }, {
@@ -1176,22 +1286,8 @@ var data = {
     }, {
         emoji: "🏺",
         emoName: "amphora"
-    }, {
-        emoji: "🌍",
-        emoName: "earth globe europe-africa"
-    }, {
-        emoji: "🌎",
-        emoName: "earth globe americas"
-    }, {
-        emoji: "🌏",
-        emoName: "earth globe asia-australia"
-    }, {
-        emoji: "🌐",
-        emoName: "globe with meridians"
-    }, {
-        emoji: "🗺",
-        emoName: "world map"
-    }, {
+    }],
+    emoPlaces: [{
         emoji: "🗾",
         emoName: "silhouette of japan"
     }, {
@@ -1342,6 +1438,12 @@ var data = {
         emoji: "🌌",
         emoName: "milky way"
     }, {
+        emoji: "🎆",
+        emoName: "fireworks"
+    }, {
+        emoji: "🎇",
+        emoName: "firework sparkler"
+    }, {
         emoji: "🎠",
         emoName: "carousel horse"
     }, {
@@ -1350,6 +1452,12 @@ var data = {
     }, {
         emoji: "🎢",
         emoName: "roller coaster"
+    }, {
+        emoji: "🌠",
+        emoName: "shooting star"
+    }, {
+        emoji: "🌈",
+        emoName: "rainbow"
     }, {
         emoji: "💈",
         emoName: "barber pole"
@@ -1537,6 +1645,13 @@ var data = {
         emoji: "🛰",
         emoName: "satellite"
     }, {
+        emoji: "🌐",
+        emoName: "globe with meridians"
+    }, {
+        emoji: "🗺",
+        emoName: "world map"
+    }],
+    emoItems : [{
         emoji: "🛎",
         emoName: "bellhop bell"
     }, {
@@ -1567,20 +1682,20 @@ var data = {
         emoji: "⌛️",
         emoName: "hourglass"
     }, {
-        emoji: "⏳ ",
-        emoName: "ourglass with flowing sand"
+        emoji: "⏳",
+        emoName: "hourglass with flowing sand"
     }, {
         emoji: "⌚️",
         emoName: "watch"
     }, {
-        emoji: "⏰ ",
-        emoName: "larm clock"
+        emoji: "⏰",
+        emoName: "alarm clock"
     }, {
-        emoji: "⏱ ",
-        emoName: "topwatch"
+        emoji: "⏱",
+        emoName: "stopwatch"
     }, {
-        emoji: "⏲ ",
-        emoName: "imer clock"
+        emoji: "⏲",
+        emoName: "timer clock"
     }, {
         emoji: "🕰",
         emoName: "mantelpiece clock"
@@ -1657,104 +1772,8 @@ var data = {
         emoji: "🕦",
         emoName: "clock face eleven-thirty"
     }, {
-        emoji: "🌑",
-        emoName: "new moon symbol"
-    }, {
-        emoji: "🌒",
-        emoName: "waxing crescent moon symbol"
-    }, {
-        emoji: "🌓",
-        emoName: "first quarter moon symbol"
-    }, {
-        emoji: "🌔",
-        emoName: "waxing gibbous moon symbol"
-    }, {
-        emoji: "🌕",
-        emoName: "full moon symbol"
-    }, {
-        emoji: "🌖",
-        emoName: "waning gibbous moon symbol"
-    }, {
-        emoji: "🌗",
-        emoName: "last quarter moon symbol"
-    }, {
-        emoji: "🌘",
-        emoName: "waning crescent moon symbol"
-    }, {
-        emoji: "🌙",
-        emoName: "crescent moon"
-    }, {
-        emoji: "🌚",
-        emoName: "new moon with face"
-    }, {
-        emoji: "🌛",
-        emoName: "first quarter moon with face"
-    }, {
-        emoji: "🌜",
-        emoName: "last quarter moon with face"
-    }, {
         emoji: "🌡",
         emoName: "thermometer"
-    }, {
-        emoji: "☀️",
-        emoName: "black sun with rays"
-    }, {
-        emoji: "🌝",
-        emoName: "full moon with face"
-    }, {
-        emoji: "🌞",
-        emoName: "sun with face"
-    }, {
-        emoji: "⭐️",
-        emoName: "white medium star"
-    }, {
-        emoji: "🌟",
-        emoName: "glowing star"
-    }, {
-        emoji: "🌠",
-        emoName: "shooting star"
-    }, {
-        emoji: "☁️",
-        emoName: "cloud"
-    }, {
-        emoji: "⛅️",
-        emoName: "sun behind cloud"
-    }, {
-        emoji: "⛈ ",
-        emoName: "hunder cloud and rain"
-    }, {
-        emoji: "🌤",
-        emoName: "white sun with small cloud"
-    }, {
-        emoji: "🌥",
-        emoName: "white sun behind cloud"
-    }, {
-        emoji: "🌦",
-        emoName: "white sun behind cloud with rain"
-    }, {
-        emoji: "🌧",
-        emoName: "cloud with rain"
-    }, {
-        emoji: "🌨",
-        emoName: "cloud with snow"
-    }, {
-        emoji: "🌩",
-        emoName: "cloud with lightning"
-    }, {
-        emoji: "🌪",
-        emoName: "cloud with tornado"
-    }, {
-        emoji: "🌫",
-        emoName: "fog"
-    }, {
-        emoji: "🌬",
-        emoName: "wind blowing face"
-    }, {
-        emoji: "🌀",
-        emoName: "cyclone"
-    }, {
-        emoji: "🌈",
-        emoName: "rainbow"
     }, {
         emoji: "🌂",
         emoName: "closed umbrella"
@@ -1771,38 +1790,11 @@ var data = {
         emoji: "⚡️",
         emoName: "high voltage sign"
     }, {
-        emoji: "❄️",
-        emoName: "snowflake"
-    }, {
-        emoji: "☃ ",
-        emoName: "nowman"
-    }, {
-        emoji: "⛄️",
-        emoName: "snowman without snow"
-    }, {
-        emoji: "☄ ",
-        emoName: "omet"
-    }, {
-        emoji: "🔥",
-        emoName: "fire"
-    }, {
-        emoji: "💧",
-        emoName: "droplet"
-    }, {
-        emoji: "🌊",
-        emoName: "water wave"
-    }, {
         emoji: "🎃",
         emoName: "jack-o-lantern"
     }, {
         emoji: "🎄",
         emoName: "christmas tree"
-    }, {
-        emoji: "🎆",
-        emoName: "fireworks"
-    }, {
-        emoji: "🎇",
-        emoName: "firework sparkler"
     }, {
         emoji: "✨ ",
         emoName: "parkles"
@@ -1848,210 +1840,6 @@ var data = {
     }, {
         emoji: "🎫",
         emoName: "ticket"
-    }, {
-        emoji: "🎖",
-        emoName: "military medal"
-    }, {
-        emoji: "🏆",
-        emoName: "trophy"
-    }, {
-        emoji: "🏅",
-        emoName: "sports medal"
-    }, {
-        emoji: "⚽️",
-        emoName: "soccer ball"
-    }, {
-        emoji: "⚾️",
-        emoName: "baseball"
-    }, {
-        emoji: "🏀",
-        emoName: "basketball and hoop"
-    }, {
-        emoji: "🏐",
-        emoName: "volleyball"
-    }, {
-        emoji: "🏈",
-        emoName: "american football"
-    }, {
-        emoji: "🏉",
-        emoName: "rugby football"
-    }, {
-        emoji: "🎾",
-        emoName: "tennis racquet and ball"
-    }, {
-        emoji: "🎱",
-        emoName: "billiards"
-    }, {
-        emoji: "🎳",
-        emoName: "bowling"
-    }, {
-        emoji: "🏏",
-        emoName: "cricket bat and ball"
-    }, {
-        emoji: "🏑",
-        emoName: "field hockey stick and ball"
-    }, {
-        emoji: "🏒",
-        emoName: "ice hockey stick and puck"
-    }, {
-        emoji: "🏓",
-        emoName: "table tennis paddle and ball"
-    }, {
-        emoji: "🏸",
-        emoName: "badminton racquet and shuttlecock"
-    }, {
-        emoji: "⛳️",
-        emoName: "flag in hole"
-    }, {
-        emoji: "🏌",
-        emoName: "golfer"
-    }, {
-        emoji: "⛸ ",
-        emoName: "ce skate"
-    }, {
-        emoji: "🎣",
-        emoName: "fishing pole and fish"
-    }, {
-        emoji: "🎽",
-        emoName: "running shirt with sash"
-    }, {
-        emoji: "🎿",
-        emoName: "ski and ski boot"
-    }, {
-        emoji: "⛷ ",
-        emoName: "kier"
-    }, {
-        emoji: "🏂",
-        emoName: "snowboarder"
-    }, {
-        emoji: "🏄",
-        emoName: "surfer"
-    }, {
-        emoji: "🏇",
-        emoName: "horse racing"
-    }, {
-        emoji: "🏊",
-        emoName: "swimmer"
-    }, {
-        emoji: "⛹ ",
-        emoName: "erson with ball"
-    }, {
-        emoji: "🏋",
-        emoName: "weight lifter"
-    }, {
-        emoji: "🚴",
-        emoName: "bicyclist"
-    }, {
-        emoji: "🚵",
-        emoName: "mountain bicyclist"
-    }, {
-        emoji: "🏎",
-        emoName: "racing car"
-    }, {
-        emoji: "🏍",
-        emoName: "racing motorcycle"
-    }, {
-        emoji: "🎯",
-        emoName: "direct hit"
-    }, {
-        emoji: "🎮",
-        emoName: "video game"
-    }, {
-        emoji: "🕹",
-        emoName: "joystick"
-    }, {
-        emoji: "🎲",
-        emoName: "game die"
-    }, {
-        emoji: "♠️",
-        emoName: "black spade suit"
-    }, {
-        emoji: "♥️",
-        emoName: "black heart suit"
-    }, {
-        emoji: "♦️",
-        emoName: "black diamond suit"
-    }, {
-        emoji: "♣️",
-        emoName: "black club suit"
-    }, {
-        emoji: "🃏",
-        emoName: "playing card black joker"
-    }, {
-        emoji: "🀄",
-        emoName: "mahjong tile red dragon"
-    }, {
-        emoji: "🎴",
-        emoName: "flower playing cards"
-    }, {
-        emoji: "🔇",
-        emoName: "speaker with cancellation stroke"
-    }, {
-        emoji: "🔈",
-        emoName: "speaker"
-    }, {
-        emoji: "🔉",
-        emoName: "speaker with one sound wave"
-    }, {
-        emoji: "🔊",
-        emoName: "speaker with three sound waves"
-    }, {
-        emoji: "📢",
-        emoName: "public address loudspeaker"
-    }, {
-        emoji: "📣",
-        emoName: "cheering megaphone"
-    }, {
-        emoji: "📯",
-        emoName: "postal horn"
-    }, {
-        emoji: "🔔",
-        emoName: "bell"
-    }, {
-        emoji: "🔕",
-        emoName: "bell with cancellation stroke"
-    }, {
-        emoji: "🎼",
-        emoName: "musical score"
-    }, {
-        emoji: "🎵",
-        emoName: "musical note"
-    }, {
-        emoji: "🎶",
-        emoName: "multiple musical notes"
-    }, {
-        emoji: "🎙",
-        emoName: "studio microphone"
-    }, {
-        emoji: "🎚",
-        emoName: "level slider"
-    }, {
-        emoji: "🎛",
-        emoName: "control knobs"
-    }, {
-        emoji: "🎤",
-        emoName: "microphone"
-    }, {
-        emoji: "🎧",
-        emoName: "headphone"
-    }, {
-        emoji: "📻",
-        emoName: "radio"
-    }, {
-        emoji: "🎷",
-        emoName: "saxophone"
-    }, {
-        emoji: "🎸",
-        emoName: "guitar"
-    }, {
-        emoji: "🎹",
-        emoName: "musical keyboard"
-    }, {
-        emoji: "🎺",
-        emoName: "trumpet"
-    }, {
-        emoji: "🎻",
-        emoName: "violin"
     }, {
         emoji: "📱",
         emoName: "mobile phone"
@@ -2392,11 +2180,11 @@ var data = {
         emoji: "🔨",
         emoName: "hammer"
     }, {
-        emoji: "⛏ ",
-        emoName: "ick"
+        emoji: "⛏",
+        emoName: "pick"
     }, {
-        emoji: "⚒ ",
-        emoName: "ammer and pick"
+        emoji: "⚒",
+        emoName: "hammer and pick"
     }, {
         emoji: "🛠",
         emoName: "hammer and wrench"
@@ -2404,8 +2192,8 @@ var data = {
         emoji: "🗡",
         emoName: "dagger knife"
     }, {
-        emoji: "⚔ ",
-        emoName: "rossed swords"
+        emoji: "⚔",
+        emoName: "crossed swords"
     }, {
         emoji: "🔫",
         emoName: "pistol"
@@ -2422,8 +2210,8 @@ var data = {
         emoji: "🔩",
         emoName: "nut and bolt"
     }, {
-        emoji: "⚙ ",
-        emoName: "ear"
+        emoji: "⚙",
+        emoName: "gear"
     }, {
         emoji: "🗜",
         emoName: "compression"
@@ -2448,12 +2236,12 @@ var data = {
     }, {
         emoji: "🚬",
         emoName: "smoking symbol"
+    },{
+        emoji: "⚰",
+        emoName: "coffin"
     }, {
-        emoji: "⚰ ",
-        emoName: "offin"
-    }, {
-        emoji: "⚱ ",
-        emoName: "uneral urn"
+        emoji: "⚱",
+        emoName: "funeral urn"
     }, {
         emoji: "🗿",
         emoName: "moyai"
@@ -2463,7 +2251,213 @@ var data = {
     }, {
         emoji: "🔮",
         emoName: "crystal ball"
+    }]
+    emoSports: [{
+        emoji: "🎖",
+        emoName: "military medal"
     }, {
+        emoji: "🏆",
+        emoName: "trophy"
+    }, {
+        emoji: "🏅",
+        emoName: "sports medal"
+    }, {
+        emoji: "⚽️",
+        emoName: "soccer ball"
+    }, {
+        emoji: "⚾️",
+        emoName: "baseball"
+    }, {
+        emoji: "🏀",
+        emoName: "basketball and hoop"
+    }, {
+        emoji: "🏐",
+        emoName: "volleyball"
+    }, {
+        emoji: "🏈",
+        emoName: "american football"
+    }, {
+        emoji: "🏉",
+        emoName: "rugby football"
+    }, {
+        emoji: "🎾",
+        emoName: "tennis racquet and ball"
+    }, {
+        emoji: "🎱",
+        emoName: "billiards"
+    }, {
+        emoji: "🎳",
+        emoName: "bowling"
+    }, {
+        emoji: "🏏",
+        emoName: "cricket bat and ball"
+    }, {
+        emoji: "🏑",
+        emoName: "field hockey stick and ball"
+    }, {
+        emoji: "🏒",
+        emoName: "ice hockey stick and puck"
+    }, {
+        emoji: "🏓",
+        emoName: "table tennis paddle and ball"
+    }, {
+        emoji: "🏸",
+        emoName: "badminton racquet and shuttlecock"
+    }, {
+        emoji: "⛳️",
+        emoName: "flag in hole"
+    }, {
+        emoji: "🏌",
+        emoName: "golfer"
+    }, {
+        emoji: "⛸",
+        emoName: "ice skate"
+    }, {
+        emoji: "🎣",
+        emoName: "fishing pole and fish"
+    }, {
+        emoji: "🎽",
+        emoName: "running shirt with sash"
+    }, {
+        emoji: "🎿",
+        emoName: "ski and ski boot"
+    }, {
+        emoji: "⛷",
+        emoName: "skier"
+    }, {
+        emoji: "🏂",
+        emoName: "snowboarder"
+    }, {
+        emoji: "🏄",
+        emoName: "surfer"
+    }, {
+        emoji: "🏇",
+        emoName: "horse racing"
+    }, {
+        emoji: "🏊",
+        emoName: "swimmer"
+    }, {
+        emoji: "⛹",
+        emoName: "person with ball"
+    }, {
+        emoji: "🏋",
+        emoName: "weight lifter"
+    }, {
+        emoji: "🚴",
+        emoName: "bicyclist"
+    }, {
+        emoji: "🚵",
+        emoName: "mountain bicyclist"
+    }, {
+        emoji: "🏎",
+        emoName: "racing car"
+    }, {
+        emoji: "🏍",
+        emoName: "racing motorcycle"
+    }, {
+        emoji: "🎯",
+        emoName: "direct hit"
+    }, {
+        emoji: "🎮",
+        emoName: "video game"
+    }, {
+        emoji: "🕹",
+        emoName: "joystick"
+    }, {
+        emoji: "🎲",
+        emoName: "game die"
+    }, {
+        emoji: "♠️",
+        emoName: "black spade suit"
+    }, {
+        emoji: "♥️",
+        emoName: "black heart suit"
+    }, {
+        emoji: "♦️",
+        emoName: "black diamond suit"
+    }, {
+        emoji: "♣️",
+        emoName: "black club suit"
+    }, {
+        emoji: "🃏",
+        emoName: "playing card black joker"
+    }, {
+        emoji: "🀄",
+        emoName: "mahjong tile red dragon"
+    }, {
+        emoji: "🎴",
+        emoName: "flower playing cards"
+    }, {
+        emoji: "🔇",
+        emoName: "speaker with cancellation stroke"
+    }, {
+        emoji: "🔈",
+        emoName: "speaker"
+    }, {
+        emoji: "🔉",
+        emoName: "speaker with one sound wave"
+    }, {
+        emoji: "🔊",
+        emoName: "speaker with three sound waves"
+    }, {
+        emoji: "📢",
+        emoName: "public address loudspeaker"
+    }, {
+        emoji: "📣",
+        emoName: "cheering megaphone"
+    }, {
+        emoji: "📯",
+        emoName: "postal horn"
+    }, {
+        emoji: "🔔",
+        emoName: "bell"
+    }, {
+        emoji: "🔕",
+        emoName: "bell with cancellation stroke"
+    }, {
+        emoji: "🎼",
+        emoName: "musical score"
+    }, {
+        emoji: "🎵",
+        emoName: "musical note"
+    }, {
+        emoji: "🎶",
+        emoName: "multiple musical notes"
+    }, {
+        emoji: "🎙",
+        emoName: "studio microphone"
+    }, {
+        emoji: "🎚",
+        emoName: "level slider"
+    }, {
+        emoji: "🎛",
+        emoName: "control knobs"
+    }, {
+        emoji: "🎤",
+        emoName: "microphone"
+    }, {
+        emoji: "🎧",
+        emoName: "headphone"
+    }, {
+        emoji: "📻",
+        emoName: "radio"
+    }, {
+        emoji: "🎷",
+        emoName: "saxophone"
+    }, {
+        emoji: "🎸",
+        emoName: "guitar"
+    }, {
+        emoji: "🎹",
+        emoName: "musical keyboard"
+    }, {
+        emoji: "🎺",
+        emoName: "trumpet"
+    }, {
+        emoji: "🎻",
+        emoName: "violin"
+    }],
+    emoSymbols: [{
         emoji: "🏧",
         emoName: "automated teller machine"
     }, {
@@ -2608,8 +2602,8 @@ var data = {
         emoji: "🛐",
         emoName: "place of worship"
     }, {
-        emoji: "⚛ ",
-        emoName: "tom symbol"
+        emoji: "⚛",
+        emoName: "atom symbol"
     }, {
         emoji: "🕉",
         emoName: "om symbol"
@@ -2617,20 +2611,20 @@ var data = {
         emoji: "✡️",
         emoName: "star of david"
     }, {
-        emoji: "☸ ",
-        emoName: "heel of dharma"
+        emoji: "☸",
+        emoName: "wheel of dharma"
     }, {
-        emoji: "☯ ",
-        emoName: "in yang"
+        emoji: "☯",
+        emoName: "yin yang"
     }, {
         emoji: "✝️",
         emoName: "latin cross"
     }, {
-        emoji: "☦ ",
-        emoName: "rthodox cross"
+        emoji: "☦",
+        emoName: "orthodox cross"
     }, {
-        emoji: "☪ ",
-        emoName: "tar and crescent"
+        emoji: "☪",
+        emoName: "star and crescent"
     }, {
         emoji: "☮ ",
         emoName: "eace symbol"
@@ -2647,7 +2641,7 @@ var data = {
         emoji: "📛",
         emoName: "name badge"
     }, {
-        emoji: "⚜ ",
+        emoji: "⚜",
         emoName: "leur-de-lis"
     }, {
         emoji: "🔰",
@@ -2659,8 +2653,8 @@ var data = {
         emoji: "⭕️",
         emoName: "heavy large circle"
     }, {
-        emoji: "✅ ",
-        emoName: "hite heavy check mark"
+        emoji: "✅",
+        emoName: "white heavy check mark"
     }, {
         emoji: "☑️",
         emoName: "ballot box with check"
@@ -2671,26 +2665,26 @@ var data = {
         emoji: "✖️",
         emoName: "heavy multiplication x"
     }, {
-        emoji: "❌ ",
-        emoName: "ross mark"
+        emoji: "❌",
+        emoName: "cross mark"
     }, {
-        emoji: "❎ ",
-        emoName: "egative squared cross mark"
+        emoji: "❎",
+        emoName: "negative squared cross mark"
     }, {
-        emoji: "➕ ",
-        emoName: "eavy plus sign"
+        emoji: "➕",
+        emoName: "heavy plus sign"
     }, {
-        emoji: "➖ ",
-        emoName: "eavy minus sign"
+        emoji: "➖",
+        emoName: "heavy minus sign"
     }, {
-        emoji: "➗ ",
-        emoName: "eavy division sign"
+        emoji: "➗",
+        emoName: "heavy division sign"
     }, {
-        emoji: "➰ ",
-        emoName: "urly loop"
+        emoji: "➰",
+        emoName: "curly loop"
     }, {
-        emoji: "➿ ",
-        emoName: "ouble curly loop"
+        emoji: "➿",
+        emoName: "double curly loop"
     }, {
         emoji: "〽️",
         emoName: "part alternation mark"
@@ -2707,29 +2701,29 @@ var data = {
         emoji: "⁉️",
         emoName: "exclamation question mark"
     }, {
-        emoji: "❓ ",
-        emoName: "lack question mark ornament"
+        emoji: "❓",
+        emoName: "black question mark ornament"
     }, {
-        emoji: "❔ ",
-        emoName: "hite question mark ornament"
+        emoji: "❔",
+        emoName: "white question mark ornament"
     }, {
-        emoji: "❕ ",
-        emoName: "hite exclamation mark ornament"
+        emoji: "❕",
+        emoName: "white exclamation mark ornament"
     }, {
         emoji: "❗️",
         emoName: "heavy exclamation mark symbol"
     }, {
-        emoji: "〰 ",
-        emoName: "avy dash"
+        emoji: "〰",
+        emoName: "savy dash"
     }, {
-        emoji: "© ",
-        emoName: "opyright sign"
+        emoji: "©",
+        emoName: "copyright sign"
     }, {
-        emoji: "® ",
-        emoName: "egistered sign"
+        emoji: "®",
+        emoName: "registered sign"
     }, {
-        emoji: "™ ",
-        emoName: "rade mark sign"
+        emoji: "™",
+        emoName: "trade mark sign"
     }, {
         emoji: "♈️",
         emoName: "aries"
@@ -2767,8 +2761,8 @@ var data = {
         emoji: "♓️",
         emoName: "pisces"
     }, {
-        emoji: "⛎ ",
-        emoName: "phiuchus"
+        emoji: "⛎",
+        emoName: "ophiuchus"
     }, {
         emoji: "🔀",
         emoName: "twisted rightwards arrows"
@@ -2782,44 +2776,44 @@ var data = {
         emoji: "▶️",
         emoName: "black right-pointing triangle"
     }, {
-        emoji: "⏩ ",
-        emoName: "lack right-pointing double triangle"
+        emoji: "⏩",
+        emoName: "black right-pointing double triangle"
     }, {
-        emoji: "⏭ ",
-        emoName: "lack right-pointing double triangle with vertical bar"
+        emoji: "⏭",
+        emoName: "black right-pointing double triangle with vertical bar"
     }, {
-        emoji: "⏯ ",
-        emoName: "lack right-pointing triangle with double vertical bar"
+        emoji: "⏯",
+        emoName: "black right-pointing triangle with double vertical bar"
     }, {
         emoji: "◀️",
         emoName: "black left-pointing triangle"
     }, {
-        emoji: "⏪ ",
-        emoName: "lack left-pointing double triangle"
+        emoji: "⏪",
+        emoName: "black left-pointing double triangle"
     }, {
-        emoji: "⏮ ",
-        emoName: "lack left-pointing double triangle with vertical bar"
+        emoji: "⏮",
+        emoName: "black left-pointing double triangle with vertical bar"
     }, {
         emoji: "🔼",
         emoName: "up-pointing small red triangle"
     }, {
-        emoji: "⏫ ",
-        emoName: "lack up-pointing double triangle"
+        emoji: "⏫",
+        emoName: "black up-pointing double triangle"
     }, {
         emoji: "🔽",
         emoName: "down-pointing small red triangle"
     }, {
-        emoji: "⏬ ",
-        emoName: "lack down-pointing double triangle"
+        emoji: "⏬",
+        emoName: "black down-pointing double triangle"
     }, {
-        emoji: "⏸ ",
-        emoName: "ouble vertical bar"
+        emoji: "⏸",
+        emoName: "double vertical bar"
     }, {
-        emoji: "⏹ ",
-        emoName: "lack square for stop"
+        emoji: "⏹",
+        emoName: "black square for stop"
     }, {
-        emoji: "⏺ ",
-        emoName: "lack circle for record"
+        emoji: "⏺",
+        emoName: "black circle for record"
     }, {
         emoji: "🎦",
         emoName: "cinema"
@@ -3079,229 +3073,230 @@ var data = {
         emoji: "🏳",
         emoName: "waving white flag"
     }, {
-        emoji: "🇦",
+        emoji: "🇦🇨",
         emoName: "flag for Ascension Island"
-    }, {
-        emoji: "🇦",
+    }],
+    emoFlags: [{
+        emoji: "🇦🇩",
         emoName: "flag for Andorra"
     }, {
-        emoji: "🇦",
+        emoji: "🇦🇪",
         emoName: "flag for United Arab Emirates"
     }, {
-        emoji: "🇦",
+        emoji: "🇦🇫",
         emoName: "flag for Afghanistan"
     }, {
-        emoji: "🇦",
+        emoji: "🇦🇬",
         emoName: "flag for Antigua & Barbuda"
     }, {
-        emoji: "🇦",
+        emoji: "🇦🇮",
         emoName: "flag for Anguilla"
     }, {
-        emoji: "🇦",
+        emoji: "🇦🇱",
         emoName: "flag for Albania"
     }, {
-        emoji: "🇦",
+        emoji: "🇦🇲",
         emoName: "flag for Armenia"
     }, {
-        emoji: "🇦",
+        emoji: "🇦🇴",
         emoName: "flag for Angola"
     }, {
-        emoji: "🇦",
+        emoji: "🇦🇶",
         emoName: "flag for Antarctica"
     }, {
-        emoji: "🇦",
+        emoji: "🇦🇷",
         emoName: "flag for Argentina"
     }, {
-        emoji: "🇦",
+        emoji: "🇦🇸",
         emoName: "flag for American Samoa"
     }, {
-        emoji: "🇦",
+        emoji: "🇦🇹",
         emoName: "flag for Austria"
     }, {
-        emoji: "🇦",
+        emoji: "🇦🇺",
         emoName: "flag for Australia"
     }, {
-        emoji: "🇦",
+        emoji: "🇦🇼",
         emoName: "flag for Aruba"
     }, {
-        emoji: "🇦",
+        emoji: "🇦🇽",
         emoName: "flag for Åland Islands"
     }, {
-        emoji: "🇦",
+        emoji: "🇦🇿",
         emoName: "flag for Azerbaijan"
     }, {
-        emoji: "🇧",
+        emoji: "🇧🇦",
         emoName: "flag for Bosnia & Herzegovina"
     }, {
-        emoji: "🇧",
+        emoji: "🇧🇧",
         emoName: "flag for Barbados"
     }, {
-        emoji: "🇧",
+        emoji: "🇧🇩",
         emoName: "flag for Bangladesh"
     }, {
-        emoji: "🇧",
+        emoji: "🇧🇪",
         emoName: "flag for Belgium"
     }, {
-        emoji: "🇧",
+        emoji: "🇧🇫",
         emoName: "flag for Burkina Faso"
     }, {
-        emoji: "🇧",
+        emoji: "🇧🇬",
         emoName: "flag for Bulgaria"
     }, {
-        emoji: "🇧",
+        emoji: "🇧🇭",
         emoName: "flag for Bahrain"
     }, {
-        emoji: "🇧",
+        emoji: "🇧🇮",
         emoName: "flag for Burundi"
     }, {
-        emoji: "🇧",
+        emoji: "🇧🇯",
         emoName: "flag for Benin"
     }, {
-        emoji: "🇧",
+        emoji: "🇧🇱",
         emoName: "flag for St. Barthélemy"
     }, {
-        emoji: "🇧",
+        emoji: "🇧🇲",
         emoName: "flag for Bermuda"
     }, {
-        emoji: "🇧",
+        emoji: "🇧🇳",
         emoName: "flag for Brunei"
     }, {
-        emoji: "🇧",
+        emoji: "🇧🇴",
         emoName: "flag for Bolivia"
     }, {
-        emoji: "🇧",
+        emoji: "🇧🇶",
         emoName: "flag for Caribbean Netherlands"
     }, {
-        emoji: "🇧",
+        emoji: "🇧🇷",
         emoName: "flag for Brazil"
     }, {
-        emoji: "🇧",
+        emoji: "🇧🇸",
         emoName: "flag for Bahamas"
     }, {
-        emoji: "🇧",
+        emoji: "🇧🇹",
         emoName: "flag for Bhutan"
     }, {
-        emoji: "🇧",
+        emoji: "🇧🇻",
         emoName: "flag for Bouvet Island"
     }, {
-        emoji: "🇧",
+        emoji: "🇧🇼",
         emoName: "flag for Botswana"
     }, {
-        emoji: "🇧",
+        emoji: "🇧🇾",
         emoName: "flag for Belarus"
     }, {
-        emoji: "🇧",
+        emoji: "🇧🇿",
         emoName: "flag for Belize"
     }, {
-        emoji: "🇨",
+        emoji: "🇨🇦",
         emoName: "flag for Canada"
     }, {
-        emoji: "🇨",
+        emoji: "🇨🇨",
         emoName: "flag for Cocos Islands"
     }, {
-        emoji: "🇨",
+        emoji: "🇨🇩",
         emoName: "flag for Congo - Kinshasa"
     }, {
-        emoji: "🇨",
+        emoji: "🇨🇫",
         emoName: "flag for Central African Republic"
     }, {
-        emoji: "🇨",
+        emoji: "🇨🇬",
         emoName: "flag for Congo - Brazzaville"
     }, {
-        emoji: "🇨",
+        emoji: "🇨🇭",
         emoName: "flag for Switzerland"
     }, {
-        emoji: "🇨",
+        emoji: "🇨🇮",
         emoName: "flag for Côte d’Ivoire"
     }, {
-        emoji: "🇨",
+        emoji: "🇨🇰",
         emoName: "flag for Cook Islands"
     }, {
-        emoji: "🇨",
+        emoji: "🇨🇱",
         emoName: "flag for Chile"
     }, {
-        emoji: "🇨",
+        emoji: "🇨🇲",
         emoName: "flag for Cameroon"
     }, {
-        emoji: "🇨",
+        emoji: "🇨🇳",
         emoName: "flag for China"
     }, {
-        emoji: "🇨",
+        emoji: "🇨🇴",
         emoName: "flag for Colombia"
     }, {
-        emoji: "🇨",
+        emoji: "🇨🇵",
         emoName: "flag for Clipperton Island"
     }, {
-        emoji: "🇨",
+        emoji: "🇨🇷",
         emoName: "flag for Costa Rica"
     }, {
-        emoji: "🇨",
+        emoji: "🇨🇺",
         emoName: "flag for Cuba"
     }, {
-        emoji: "🇨",
+        emoji: "🇨🇻",
         emoName: "flag for Cape Verde"
     }, {
-        emoji: "🇨",
+        emoji: "🇨🇼",
         emoName: "flag for Curaçao"
     }, {
-        emoji: "🇨",
+        emoji: "🇨🇽",
         emoName: "flag for Christmas Island"
     }, {
-        emoji: "🇨",
+        emoji: "🇨🇾",
         emoName: "flag for Cyprus"
     }, {
-        emoji: "🇨",
+        emoji: "🇨🇿",
         emoName: "flag for Czech Republic"
     }, {
-        emoji: "🇩",
+        emoji: "🇩🇪",
         emoName: "flag for Germany"
     }, {
-        emoji: "🇩",
+        emoji: "🇩🇬",
         emoName: "flag for Diego Garcia"
     }, {
-        emoji: "🇩",
+        emoji: "🇩🇯",
         emoName: "flag for Djibouti"
     }, {
-        emoji: "🇩",
+        emoji: "🇩🇰",
         emoName: "flag for Denmark"
     }, {
-        emoji: "🇩",
+        emoji: "🇩🇲",
         emoName: "flag for Dominica"
     }, {
-        emoji: "🇩",
+        emoji: "🇩🇴",
         emoName: "flag for Dominican Republic"
     }, {
-        emoji: "🇩",
+        emoji: "🇩🇿",
         emoName: "flag for Algeria"
     }, {
-        emoji: "🇪",
+        emoji: "🇪🇦",
         emoName: "flag for Ceuta & Melilla"
     }, {
-        emoji: "🇪",
+        emoji: "🇪🇨",
         emoName: "flag for Ecuador"
     }, {
-        emoji: "🇪",
+        emoji: "🇪🇪",
         emoName: "flag for Estonia"
     }, {
-        emoji: "🇪",
+        emoji: "🇪🇬",
         emoName: "flag for Egypt"
     }, {
-        emoji: "🇪",
+        emoji: "🇪🇭",
         emoName: "flag for Western Sahara"
     }, {
-        emoji: "🇪",
+        emoji: "🇪🇷",
         emoName: "flag for Eritrea"
     }, {
-        emoji: "🇪",
+        emoji: "🇪🇸",
         emoName: "flag for Spain"
     }, {
-        emoji: "🇪",
+        emoji: "🇪🇹",
         emoName: "flag for Ethiopia"
     }, {
-        emoji: "🇪",
+        emoji: "🇪🇺",
         emoName: "flag for European Union"
     }, {
-        emoji: "🇫",
+        emoji: "🇫🇮",
         emoName: "flag for Finland"
     }, {
         emoji: "🇫",
@@ -3841,12 +3836,12 @@ var data = {
         emoji: "🇾",
         emoName: "flag for Mayotte"
     }, {
-        emoji: "🇿�",
+        emoji: "🇿",
         emoName: "flag for South Africa"
     }, {
         emoji: "",
         emoName: "flag for Zambia"
-    } ]
+    }]
 }
 
 
