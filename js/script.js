@@ -1651,7 +1651,7 @@ var data = {
         emoji: "🗺",
         emoName: "world map"
     }],
-    emoItems : [{
+    emoItems: [{
         emoji: "🛎",
         emoName: "bellhop bell"
     }, {
@@ -2236,7 +2236,7 @@ var data = {
     }, {
         emoji: "🚬",
         emoName: "smoking symbol"
-    },{
+    }, {
         emoji: "⚰",
         emoName: "coffin"
     }, {
@@ -3072,11 +3072,11 @@ var data = {
     }, {
         emoji: "🏳",
         emoName: "waving white flag"
-    }, {
-        emoji: "🇦🇨",
-        emoName: "flag for Ascension Island"
     }],
     emoFlags: [{
+        emoji: "🇦🇨",
+        emoName: "flag for Ascension Island"
+    }, {
         emoji: "🇦🇩",
         emoName: "flag for Andorra"
     }, {
@@ -3299,547 +3299,547 @@ var data = {
         emoji: "🇫🇮",
         emoName: "flag for Finland"
     }, {
-        emoji: "🇫",
+        emoji: "🇫🇯",
         emoName: "flag for Fiji"
     }, {
-        emoji: "🇫",
+        emoji: "🇫🇰",
         emoName: "flag for Falkland Islands"
     }, {
-        emoji: "🇫",
+        emoji: "🇫🇲",
         emoName: "flag for Micronesia"
     }, {
-        emoji: "🇫",
+        emoji: "🇫🇴",
         emoName: "flag for Faroe Islands"
     }, {
-        emoji: "🇫",
+        emoji: "🇫🇷",
         emoName: "flag for France"
     }, {
-        emoji: "🇬",
+        emoji: "🇬🇦",
         emoName: "flag for Gabon"
     }, {
-        emoji: "🇬",
+        emoji: "🇬🇧",
         emoName: "flag for United Kingdom"
     }, {
-        emoji: "🇬",
+        emoji: "🇬🇩",
         emoName: "flag for Grenada"
     }, {
-        emoji: "🇬",
+        emoji: "🇬🇪",
         emoName: "flag for Georgia"
     }, {
-        emoji: "🇬",
+        emoji: "🇬🇫",
         emoName: "flag for French Guiana"
     }, {
-        emoji: "🇬",
+        emoji: "🇬🇬",
         emoName: "flag for Guernsey"
     }, {
-        emoji: "🇬",
+        emoji: "🇬🇭",
         emoName: "flag for Ghana"
     }, {
-        emoji: "🇬",
+        emoji: "🇬🇮",
         emoName: "flag for Gibraltar"
     }, {
-        emoji: "🇬",
+        emoji: "🇬🇱",
         emoName: "flag for Greenland"
     }, {
-        emoji: "🇬",
+        emoji: "🇬🇲",
         emoName: "flag for Gambia"
     }, {
-        emoji: "🇬",
+        emoji: "🇬🇳",
         emoName: "flag for Guinea"
     }, {
-        emoji: "🇬",
+        emoji: "🇬🇵",
         emoName: "flag for Guadeloupe"
     }, {
-        emoji: "🇬",
+        emoji: "🇬🇶",
         emoName: "flag for Equatorial Guinea"
     }, {
-        emoji: "🇬",
+        emoji: "🇬🇷",
         emoName: "flag for Greece"
     }, {
-        emoji: "🇬",
+        emoji: "🇬🇸",
         emoName: "flag for South Georgia & South Sandwich Islands"
     }, {
-        emoji: "🇬",
+        emoji: "🇬🇹",
         emoName: "flag for Guatemala"
     }, {
-        emoji: "🇬",
+        emoji: "🇬🇺",
         emoName: "flag for Guam"
     }, {
-        emoji: "🇬",
+        emoji: "🇬🇼",
         emoName: "flag for Guinea-Bissau"
     }, {
-        emoji: "🇬",
+        emoji: "🇬🇾",
         emoName: "flag for Guyana"
     }, {
-        emoji: "🇭",
+        emoji: "🇭🇰",
         emoName: "flag for Hong Kong"
     }, {
-        emoji: "🇭",
+        emoji: "🇭🇲",
         emoName: "flag for Heard & McDonald Islands"
     }, {
-        emoji: "🇭",
+        emoji: "🇭🇳",
         emoName: "flag for Honduras"
     }, {
-        emoji: "🇭",
+        emoji: "🇭🇷",
         emoName: "flag for Croatia"
     }, {
-        emoji: "🇭",
+        emoji: "🇭🇹",
         emoName: "flag for Haiti"
     }, {
-        emoji: "🇭",
+        emoji: "🇭🇺",
         emoName: "flag for Hungary"
     }, {
-        emoji: "🇮",
+        emoji: "🇮🇨",
         emoName: "flag for Canary Islands"
     }, {
-        emoji: "🇮",
+        emoji: "🇮🇩",
         emoName: "flag for Indonesia"
     }, {
-        emoji: "🇮",
+        emoji: "🇮🇪",
         emoName: "flag for Ireland"
     }, {
-        emoji: "🇮",
+        emoji: "🇮🇱",
         emoName: "flag for Israel"
     }, {
-        emoji: "🇮",
+        emoji: "🇮🇲",
         emoName: "flag for Isle of Man"
     }, {
-        emoji: "🇮",
+        emoji: "🇮🇳",
         emoName: "flag for India"
     }, {
-        emoji: "🇮",
+        emoji: "🇮🇴",
         emoName: "flag for British Indian Ocean Territory"
     }, {
-        emoji: "🇮",
+        emoji: "🇮🇶",
         emoName: "flag for Iraq"
     }, {
-        emoji: "🇮",
+        emoji: "🇮🇷",
         emoName: "flag for Iran"
     }, {
-        emoji: "🇮",
+        emoji: "🇮🇸",
         emoName: "flag for Iceland"
     }, {
-        emoji: "🇮",
+        emoji: "🇮🇹",
         emoName: "flag for Italy"
     }, {
-        emoji: "🇯",
+        emoji: "🇯🇪",
         emoName: "flag for Jersey"
     }, {
-        emoji: "🇯",
+        emoji: "🇯🇲",
         emoName: "flag for Jamaica"
     }, {
-        emoji: "🇯",
+        emoji: "🇯🇴",
         emoName: "flag for Jordan"
     }, {
-        emoji: "🇯",
+        emoji: "🇯🇵",
         emoName: "flag for Japan"
     }, {
-        emoji: "🇰",
+        emoji: "🇰🇪",
         emoName: "flag for Kenya"
     }, {
-        emoji: "🇰",
+        emoji: "🇰🇬",
         emoName: "flag for Kyrgyzstan"
     }, {
-        emoji: "🇰",
+        emoji: "🇰🇭",
         emoName: "flag for Cambodia"
     }, {
-        emoji: "🇰",
+        emoji: "🇰🇮",
         emoName: "flag for Kiribati"
     }, {
-        emoji: "🇰",
+        emoji: "🇰🇲",
         emoName: "flag for Comoros"
     }, {
-        emoji: "🇰",
+        emoji: "🇰🇳",
         emoName: "flag for St. Kitts & Nevis"
     }, {
-        emoji: "🇰",
+        emoji: "🇰🇵",
         emoName: "flag for North Korea"
     }, {
-        emoji: "🇰",
+        emoji: "🇰🇷",
         emoName: "flag for South Korea"
     }, {
-        emoji: "🇰",
+        emoji: "🇰🇼",
         emoName: "flag for Kuwait"
     }, {
-        emoji: "🇰",
+        emoji: "🇰🇾",
         emoName: "flag for Cayman Islands"
     }, {
-        emoji: "🇰",
+        emoji: "🇰🇿",
         emoName: "flag for Kazakhstan"
     }, {
-        emoji: "🇱",
+        emoji: "🇱🇦",
         emoName: "flag for Laos"
     }, {
-        emoji: "🇱",
+        emoji: "🇱🇧",
         emoName: "flag for Lebanon"
     }, {
-        emoji: "🇱",
+        emoji: "🇱🇨",
         emoName: "flag for St. Lucia"
     }, {
-        emoji: "🇱",
+        emoji: "🇱🇮",
         emoName: "flag for Liechtenstein"
     }, {
-        emoji: "🇱",
+        emoji: "🇱🇰",
         emoName: "flag for Sri Lanka"
     }, {
-        emoji: "🇱",
+        emoji: "🇱🇷",
         emoName: "flag for Liberia"
     }, {
-        emoji: "🇱",
+        emoji: "🇱🇸",
         emoName: "flag for Lesotho"
     }, {
-        emoji: "🇱",
+        emoji: "🇱🇹",
         emoName: "flag for Lithuania"
     }, {
-        emoji: "🇱",
+        emoji: "🇱🇺",
         emoName: "flag for Luxembourg"
     }, {
-        emoji: "🇱",
+        emoji: "🇱🇻",
         emoName: "flag for Latvia"
     }, {
-        emoji: "🇱",
+        emoji: "🇱🇾",
         emoName: "flag for Libya"
     }, {
-        emoji: "🇲",
+        emoji: "🇲🇦",
         emoName: "flag for Morocco"
     }, {
-        emoji: "🇲",
+        emoji: "🇲🇨",
         emoName: "flag for Monaco"
     }, {
-        emoji: "🇲",
+        emoji: "🇲🇩",
         emoName: "flag for Moldova"
     }, {
-        emoji: "🇲",
+        emoji: "🇲🇪",
         emoName: "flag for Montenegro"
     }, {
-        emoji: "🇲",
+        emoji: "🇲🇫",
         emoName: "flag for St. Martin"
     }, {
-        emoji: "🇲",
+        emoji: "🇲🇬",
         emoName: "flag for Madagascar"
     }, {
-        emoji: "🇲",
+        emoji: "🇲🇭",
         emoName: "flag for Marshall Islands"
     }, {
-        emoji: "🇲",
+        emoji: "🇲🇰",
         emoName: "flag for Macedonia"
     }, {
-        emoji: "🇲",
+        emoji: "🇲🇱",
         emoName: "flag for Mali"
     }, {
-        emoji: "🇲",
+        emoji: "🇲🇲",
         emoName: "flag for Myanmar"
     }, {
-        emoji: "🇲",
+        emoji: "🇲🇳",
         emoName: "flag for Mongolia"
     }, {
-        emoji: "🇲",
+        emoji: "🇲🇴",
         emoName: "flag for Macau"
     }, {
-        emoji: "🇲",
+        emoji: "🇲🇵",
         emoName: "flag for Northern Mariana Islands"
     }, {
-        emoji: "🇲",
+        emoji: "🇲🇶",
         emoName: "flag for Martinique"
     }, {
-        emoji: "🇲",
+        emoji: "🇲🇷",
         emoName: "flag for Mauritania"
     }, {
-        emoji: "🇲",
+        emoji: "🇲🇸",
         emoName: "flag for Montserrat"
     }, {
-        emoji: "🇲",
+        emoji: "🇲🇹",
         emoName: "flag for Malta"
     }, {
-        emoji: "🇲",
+        emoji: "🇲🇺",
         emoName: "flag for Mauritius"
     }, {
-        emoji: "🇲",
+        emoji: "🇲🇻",
         emoName: "flag for Maldives"
     }, {
-        emoji: "🇲",
+        emoji: "🇲🇼",
         emoName: "flag for Malawi"
     }, {
-        emoji: "🇲",
+        emoji: "🇲🇽",
         emoName: "flag for Mexico"
     }, {
-        emoji: "🇲",
+        emoji: "🇲🇾",
         emoName: "ag for Malaysia"
     }, {
-        emoji: "🇲",
+        emoji: "🇲🇿",
         emoName: "ag for Mozambique"
     }, {
-        emoji: "🇳",
+        emoji: "🇳🇦",
         emoName: "flag for Namibia"
     }, {
-        emoji: "🇳",
+        emoji: "🇳🇨",
         emoName: "flag for New Caledonia"
     }, {
-        emoji: "🇳",
+        emoji: "🇳🇪",
         emoName: "flag for Niger"
     }, {
-        emoji: "🇳",
+        emoji: "🇳🇫",
         emoName: "flag for Norfolk Island"
     }, {
-        emoji: "🇳",
+        emoji: "🇳🇬",
         emoName: "flag for Nigeria"
     }, {
-        emoji: "🇳",
+        emoji: "🇳🇮",
         emoName: "flag for Nicaragua"
     }, {
-        emoji: "🇳",
+        emoji: "🇳🇱",
         emoName: "flag for Netherlands"
     }, {
-        emoji: "🇳",
+        emoji: "🇳🇴",
         emoName: "flag for Norway"
     }, {
-        emoji: "🇳",
+        emoji: "🇳🇵",
         emoName: "flag for Nepal"
     }, {
-        emoji: "🇳",
+        emoji: "🇳🇷",
         emoName: "flag for Nauru"
     }, {
-        emoji: "🇳",
+        emoji: "🇳🇺",
         emoName: "flag for Niue"
     }, {
-        emoji: "🇳",
+        emoji: "🇳🇿",
         emoName: "flag for New Zealand"
     }, {
-        emoji: "🇴",
+        emoji: "🇴🇲",
         emoName: "flag for Oman"
     }, {
-        emoji: "🇵",
+        emoji: "🇵🇦",
         emoName: "flag for Panama"
     }, {
-        emoji: "🇵",
+        emoji: "🇵🇪",
         emoName: "flag for Peru"
     }, {
-        emoji: "🇵",
+        emoji: "🇵🇫",
         emoName: "flag for French Polynesia"
     }, {
-        emoji: "🇵",
+        emoji: "🇵🇬",
         emoName: "flag for Papua New Guinea"
     }, {
-        emoji: "🇵",
+        emoji: "🇵🇭",
         emoName: "flag for Philippines"
     }, {
-        emoji: "🇵",
+        emoji: "🇵🇰",
         emoName: "flag for Pakistan"
     }, {
-        emoji: "🇵",
+        emoji: "🇵🇱",
         emoName: "flag for Poland"
     }, {
-        emoji: "🇵",
+        emoji: "🇵🇲",
         emoName: "flag for St. Pierre & Miquelon"
     }, {
-        emoji: "🇵",
+        emoji: "🇵🇳",
         emoName: "flag for Pitcairn Islands"
     }, {
-        emoji: "🇵",
+        emoji: "🇵🇷",
         emoName: "flag for Puerto Rico"
     }, {
-        emoji: "🇵",
+        emoji: "🇵🇸",
         emoName: "flag for Palestinian Territories"
     }, {
-        emoji: "🇵",
+        emoji: "🇵🇹",
         emoName: "flag for Portugal"
     }, {
-        emoji: "🇵",
+        emoji: "🇵🇼",
         emoName: "flag for Palau"
     }, {
-        emoji: "🇵",
+        emoji: "🇵🇾",
         emoName: "flag for Paraguay"
     }, {
-        emoji: "🇶",
+        emoji: "🇶🇦",
         emoName: "flag for Qatar"
     }, {
-        emoji: "🇷",
+        emoji: "🇷🇪",
         emoName: "flag for Réunion"
     }, {
-        emoji: "🇷",
+        emoji: "🇷🇴",
         emoName: "flag for Romania"
     }, {
-        emoji: "🇷",
+        emoji: "🇷🇸",
         emoName: "flag for Serbia"
     }, {
-        emoji: "🇷",
+        emoji: "🇷🇺",
         emoName: "flag for Russia"
     }, {
-        emoji: "🇷",
+        emoji: "🇷🇼",
         emoName: "flag for Rwanda"
     }, {
-        emoji: "🇸",
+        emoji: "🇸🇦",
         emoName: "flag for Saudi Arabia"
     }, {
-        emoji: "🇸",
+        emoji: "🇸🇧",
         emoName: "flag for Solomon Islands"
     }, {
-        emoji: "🇸",
+        emoji: "🇸🇨",
         emoName: "flag for Seychelles"
     }, {
-        emoji: "🇸",
+        emoji: "🇸🇩",
         emoName: "flag for Sudan"
     }, {
-        emoji: "🇸",
+        emoji: "🇸🇪",
         emoName: "flag for Sweden"
     }, {
-        emoji: "🇸",
+        emoji: "🇸🇬",
         emoName: "flag for Singapore"
     }, {
-        emoji: "🇸",
+        emoji: "🇸🇭",
         emoName: "flag for St. Helena"
     }, {
-        emoji: "🇸",
+        emoji: "🇸🇮",
         emoName: "flag for Slovenia"
     }, {
-        emoji: "🇸",
+        emoji: "🇸🇯",
         emoName: "flag for Svalbard & Jan Mayen"
     }, {
-        emoji: "🇸",
+        emoji: "🇸🇰",
         emoName: "flag for Slovakia"
     }, {
-        emoji: "🇸",
+        emoji: "🇸🇱",
         emoName: "flag for Sierra Leone"
     }, {
-        emoji: "🇸",
+        emoji: "🇸🇲",
         emoName: "flag for San Marino"
     }, {
-        emoji: "🇸",
+        emoji: "🇸🇳",
         emoName: "flag for Senegal"
     }, {
-        emoji: "🇸",
+        emoji: "🇸🇴",
         emoName: "flag for Somalia"
     }, {
-        emoji: "🇸",
+        emoji: "🇸🇷",
         emoName: "flag for Suriname"
     }, {
-        emoji: "🇸",
+        emoji: "🇸🇸",
         emoName: "flag for South Sudan"
     }, {
-        emoji: "🇸",
+        emoji: "🇸🇹",
         emoName: "flag for São Tomé & Príncipe"
     }, {
-        emoji: "🇸",
+        emoji: "🇸🇻",
         emoName: "flag for El Salvador"
     }, {
-        emoji: "🇸",
+        emoji: "🇸🇽",
         emoName: "flag for Sint Maarten"
     }, {
-        emoji: "🇸",
+        emoji: "🇸🇾",
         emoName: "flag for Syria"
     }, {
-        emoji: "🇸",
+        emoji: "🇸🇿",
         emoName: "flag for Swaziland"
     }, {
-        emoji: "🇹",
+        emoji: "🇹🇦",
         emoName: "flag for Tristan da Cunha"
     }, {
-        emoji: "🇹",
+        emoji: "🇹🇨",
         emoName: "flag for Turks & Caicos Islands"
     }, {
-        emoji: "🇹",
+        emoji: "🇹🇩",
         emoName: "flag for Chad"
     }, {
-        emoji: "🇹",
+        emoji: "🇹🇫",
         emoName: "flag for French Southern Territories"
     }, {
-        emoji: "🇹",
+        emoji: "🇹🇬",
         emoName: "flag for Togo"
     }, {
-        emoji: "🇹",
+        emoji: "🇹🇭",
         emoName: "flag for Thailand"
     }, {
-        emoji: "🇹",
+        emoji: "🇹🇯",
         emoName: "flag for Tajikistan"
     }, {
-        emoji: "🇹",
+        emoji: "🇹🇰",
         emoName: "flag for Tokelau"
     }, {
-        emoji: "🇹",
+        emoji: "🇹🇱",
         emoName: "flag for Timor-Leste"
     }, {
-        emoji: "🇹",
+        emoji: "🇹🇲",
         emoName: "flag for Turkmenistan"
     }, {
-        emoji: "🇹",
+        emoji: "🇹🇳",
         emoName: "flag for Tunisia"
     }, {
-        emoji: "🇹",
+        emoji: "🇹🇴",
         emoName: "flag for Tonga"
     }, {
-        emoji: "🇹",
+        emoji: "🇹🇷",
         emoName: "flag for Turkey"
     }, {
-        emoji: "🇹",
+        emoji: "🇹🇹",
         emoName: "flag for Trinidad & Tobago"
     }, {
-        emoji: "🇹",
+        emoji: "🇹🇻",
         emoName: "flag for Tuvalu"
     }, {
-        emoji: "🇹",
+        emoji: "🇹🇼",
         emoName: "flag for Taiwan"
     }, {
-        emoji: "🇹",
+        emoji: "🇹🇿",
         emoName: "flag for Tanzania"
     }, {
-        emoji: "🇺",
+        emoji: "🇺🇦",
         emoName: "flag for Ukraine"
     }, {
-        emoji: "🇺",
+        emoji: "🇺🇬",
         emoName: "flag for Uganda"
     }, {
-        emoji: "🇺",
+        emoji: "🇺🇲",
         emoName: "flag for U.S. Outlying Islands"
     }, {
-        emoji: "🇺",
+        emoji: "🇺🇸",
         emoName: "flag for United States"
     }, {
-        emoji: "🇺",
+        emoji: "🇺🇾",
         emoName: "flag for Uruguay"
     }, {
-        emoji: "🇺",
+        emoji: "🇺🇿",
         emoName: "flag for Uzbekistan"
     }, {
-        emoji: "🇻",
+        emoji: "🇻🇦",
         emoName: "flag for Vatican City"
     }, {
-        emoji: "🇻",
+        emoji: "🇻🇨",
         emoName: "flag for St. Vincent & Grenadines"
     }, {
-        emoji: "🇻",
+        emoji: "🇻🇪",
         emoName: "flag for Venezuela"
     }, {
-        emoji: "🇻",
+        emoji: "🇻🇬",
         emoName: "flag for British Virgin Islands"
     }, {
-        emoji: "🇻",
+        emoji: "🇻🇮",
         emoName: "flag for U.S. Virgin Islands"
     }, {
-        emoji: "🇻",
+        emoji: "🇻🇳",
         emoName: "flag for Vietnam"
     }, {
-        emoji: "🇻",
+        emoji: "🇻🇺",
         emoName: "flag for Vanuatu"
     }, {
-        emoji: "🇼",
+        emoji: "🇼🇫",
         emoName: "flag for Wallis & Futuna"
     }, {
-        emoji: "🇼",
+        emoji: "🇼🇸",
         emoName: "flag for Samoa"
     }, {
-        emoji: "🇽",
+        emoji: "🇽🇰",
         emoName: "flag for Kosovo"
     }, {
-        emoji: "🇾",
+        emoji: "🇾🇪",
         emoName: "flag for Yemen"
     }, {
-        emoji: "🇾",
+        emoji: "🇾🇹",
         emoName: "flag for Mayotte"
     }, {
-        emoji: "🇿",
+        emoji: "🇿🇦",
         emoName: "flag for South Africa"
     }, {
-        emoji: "",
+        emoji: "🇿🇲",
         emoName: "flag for Zambia"
     }]
 }
