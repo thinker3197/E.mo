@@ -3746,7 +3746,7 @@ var view = {
                 return function() {
                     control.copyEmo(e.emoji);
                     // console.log(e.emoji);
-                    view.emoSearch.value = e.emoName;
+                    view.emoSearch.value += e.emoji + " ";
                 };
             })(emo));
 
