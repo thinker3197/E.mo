@@ -402,9 +402,6 @@ var data = {
         emoji: "👪",
         emoName: "family of a man and woman with boy"
     }, {
-        emoji: "👨👩‍👧",
-        emoName: "family of a man and woman with girl"
-    }, {
         emoji: "💪",
         emoName: "flexed biceps"
     }, {
