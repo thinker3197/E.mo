@@ -3701,6 +3701,19 @@ var control = {
 
         document.body.removeChild(textArea);
     }
+    // searchEmo: function(emoji) {
+    //     var viewBody = document.getElementById('emo-list'),
+    //         emoFace = data.emoFace;
+    //     i;
+    //     viewBody.innerHTML = '';
+
+    //     for (i = 0; i < emoFace.length; ++i) {
+    //         if (emoFace[i].emoName.indexOf(emoji) >= 0) {
+    //             // viewBody.innerHTML += (emoFace[i].emoji);
+    //             view.renderSelect(emoFace[i].emoji);
+    //         }
+    //     }
+    // }
 };
 
 // Control system ends
@@ -3740,15 +3753,36 @@ var view = {
             this.viewBody.appendChild(node);
         }
 
-        this.emoSearch.addEventListener('keyup',function() {
-            console.log(view.emoSearch.value);
-        });
+        // this.emoSearch.addEventListener('keyup', function() {
+        //     if (view.emoSearch.value.length < 4)
+        //         control.searchEmo(view.emoSearch.value);
+        // });
 
         this.emoType.addEventListener('click', function() {
             control.setCurrEmo(event.target.id);
         });
-
     }
+    // renderSelect: function(elem) {
+    //     var node,
+    //         textNode,
+    //         emo;
+
+    //     node = document.createElement("li");
+    //     textNode = document.createTextNode(elem);
+    //     node.appendChild(textNode);
+
+    //     node.addEventListener('click', function(e) {
+    //         return function() {
+    //             control.copyEmo(e);
+    //         };
+    //     });
+
+    //     this.viewBody.appendChild(node);
+
+    //     this.emoType.addEventListener('click', function() {
+    //         control.setCurrEmo(event.target.id);
+    //     });
+    // }
 };
 
 // View ends
