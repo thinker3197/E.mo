@@ -2253,7 +2253,7 @@ var data = {
     }, {
         emoji: "🔮",
         emoName: "crystal ball"
-    }]
+    }],
     emoActivity: [{
         emoji: "🎖",
         emoName: "military medal"
@@ -3848,8 +3848,75 @@ var data = {
 
 // Data model ends
 
+// Control system
 var control = {
     init: function() {
+        data.currEmo = data.emoFace; // Set current emoji to emoFace category
+        view.init();
+    },
+    getCurrEmo: function() {
+        return data.currEmo;
+    },
+    setCurrEmo: function(emoji) {
+        if(emoji=="emo-face")
+            data.currEmo = data.emoFace;
+        else if(emoji=="emo-symbol")
+            data.currEmo = data.emoSymbol;
+        else if(emoji=="emo-animal")
+            data.currEmo = data.emoAnimal;
+        else if(emoji=="emo-food")
+            data.currEmo = data.emoFood;
+        else if(emoji=="emo-place")
+            data.currEmo = data.emoPlace;
+        else if(emoji=="emo-item")
+            data.currEmo = data.emoItem;
+        else if(emoji=="emo-activity")
+            data.currEmo = data.emoActivity;
+        else
+            data.currEmo = data.emoFlag;
         view.render();
     }
-}
+};
+
+// Control system ends
+
+// View
+
+var view = {
+    init: function() {
+        this.viewBody = document.getElementById('emo-list');
+        this.emoType = document.getElementById('emo-type');
+        this.render();
+    },
+    render: function() {
+        var currEmoji = control.getCurrEmo(),
+            node,
+            textNode,
+            emo;
+
+        this.viewBody.innerHTML = '';
+
+        for (i = 0; i < currEmoji.length; ++i) {
+            emo = currEmoji[i];
+
+            node = document.createElement("li");
+            textNode = document.createTextNode(currEmoji[i].emoji);
+            node.appendChild(textNode);
+
+            node.addEventListener('click', (function(e) {
+                return function() {
+                    control.copyEmo(e);
+                };
+            })(emo));
+
+            this.viewBody.appendChild(node);
+        }
+
+        this.emoType.addEventListener('click', function() {
+            control.setCurrEmo(event.target.id);
+        });
+
+    }
+};
+
+control.init();
