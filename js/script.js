@@ -1,6 +1,8 @@
+// Data model begins
+
 var data = {
     currEmo: null,
-    emoFaces: [{
+    emoFace: [{
         emoName: "grinning face",
         emoji: "😀"
     }, {
@@ -1287,7 +1289,7 @@ var data = {
         emoji: "🏺",
         emoName: "amphora"
     }],
-    emoPlaces: [{
+    emoPlace: [{
         emoji: "🗾",
         emoName: "silhouette of japan"
     }, {
@@ -1651,7 +1653,7 @@ var data = {
         emoji: "🗺",
         emoName: "world map"
     }],
-    emoItems: [{
+    emoItem: [{
         emoji: "🛎",
         emoName: "bellhop bell"
     }, {
@@ -2252,7 +2254,7 @@ var data = {
         emoji: "🔮",
         emoName: "crystal ball"
     }]
-    emoSports: [{
+    emoActivity: [{
         emoji: "🎖",
         emoName: "military medal"
     }, {
@@ -2457,7 +2459,7 @@ var data = {
         emoji: "🎻",
         emoName: "violin"
     }],
-    emoSymbols: [{
+    emoSymbol: [{
         emoji: "🏧",
         emoName: "automated teller machine"
     }, {
@@ -3073,7 +3075,7 @@ var data = {
         emoji: "🏳",
         emoName: "waving white flag"
     }],
-    emoFlags: [{
+    emoFlag: [{
         emoji: "🇦🇨",
         emoName: "flag for Ascension Island"
     }, {
@@ -3844,8 +3846,10 @@ var data = {
     }]
 }
 
+// Data model ends
 
-
-
-
-// asdsssssasndvasjdHVAKJSH,DVjh,sadvlj,haSVDJ,havsd,hASVD.HKasd.has
+var control = {
+    init: function() {
+        view.render();
+    }
+}
