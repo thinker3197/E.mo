@@ -83,5 +83,7 @@ input:focus {
     margin-left: 8px;
     background: #eee;
     border: none;
+    font-size: 14px;
+    color: #a6a6a6;
     font-weight: 500;
 }
