@@ -9,7 +9,6 @@ body {
     height: 300px;
     width: 340px;
     background: #eee;
-
 }
 
 li {
@@ -61,4 +60,6 @@ li {
 
 #emo-list{
 	overflow: auto;
+	min-height: 340px;
+	max-height: 340px;
 }
