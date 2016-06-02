@@ -1,3 +1,3 @@
 # E.mo
 
-Blocked project. Will be updated soon! 🙋
+Work in progress. Stay updated! 🙋
