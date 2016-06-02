@@ -3700,6 +3700,9 @@ var control = {
         }
 
         document.body.removeChild(textArea);
+    },
+    copyInputText: function(){
+        this.copyEmo(document.getElementById('emo-search').value);
     }
     // searchEmo: function(emoji) {
     //     var viewBody = document.getElementById('emo-list'),
@@ -3725,6 +3728,7 @@ var view = {
         this.viewBody = document.getElementById('emo-list');
         this.emoType = document.getElementById('emo-type');
         this.emoSearch = document.getElementById('emo-search');
+        this.emoSearchIcon = document.getElementById('emo-search-icon');
         this.render();
     },
     render: function() {
@@ -3760,6 +3764,10 @@ var view = {
 
         this.emoType.addEventListener('click', function() {
             control.setCurrEmo(event.target.id);
+        });
+
+        this.emoSearchIcon.addEventListener('click', function(){
+            control.copyInputText();
         });
     }
     // renderSelect: function(elem) {

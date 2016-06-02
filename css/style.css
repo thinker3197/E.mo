@@ -76,6 +76,13 @@ input:focus {
 #emo-search-icon {
     font-size: 18px;
     color: #455A64;
+    cursor: copy;
+    transition: all 0.2s;
+}
+
+#emo-search-icon:hover {
+    font-size: 18px;
+    color: #E53935;
 }
 
 #emo-search {
